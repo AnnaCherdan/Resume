@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Резюме. Черданцева А.А.</title>
+</head>
+<body>
+<body style="background-color:aquamarine;">
+<nav>
+<a href="#aboutme">Аз есмь</a>
+<a href="#experience">Опыт</a>
+<a href="#hobby">Хобби</a>
+<a href="#contacts">Контакты</a>
+</nav>
+<p class="aligncenter"><img src="https://sun9-18.userapi.com/impg/PVw8jt-W_fJthbWv1mdkCqulC6mrpP-SuvSeqw/HuAQf4yP1kw.jpg?size=527x653&quality=95&sign=15dfc4eb98b607347dbf9ac7eac6cf12&type=album" alt="Моё лицо" weight="100" height="100" title="Черданцева Анютка">
+</p>
+<style>
+.aligncenter {
+    text-align: center;
+}
+</style>
+</div>
+<div>
+<header>
+<h1><center><strong><em>Здравствуйте и добро пожаловать на мою страницу резюме!</em></strong></center></h1>
+</header>
+</div>
+<div>
+<h3><center><font color = "green"> Я встала на тропу <strike>войны</strike> изучения, а в дальнейшем, безусловно, приобщения,<br>к интереснейшей профессиональной деятельности -<br></font></center></h3>
+<center><h1><u><font color = "blue">Тестировщик-автоматизатор на Python (QAP)</font></u></center></h1>
+</div>
+<div>
+<style>
+   h2 {
+    background:cornflowerblue;
+	padding: 2px;
+   }
+  </style>
+<div id="aboutme"><h2><u>Аз есмь:</u></h2></div>
+<style>
+h1 {
+ine-height:2px;
+}
+p {
+line-height: 1;
+}
+</style>
+<p>Черданцева Анна Асхаровна</p>
+<p>Г. Кемерово</p>
+<p>Высшее образование: специалист педагог-психолог, магистр социологии</p>
+<div>
+<h3><em>Мои качества:</em></h3>
+<table>
+<tbody>
+<tr>
+<td><strong><center>Личные</center></strong></td>
+<td><strong><center>Профессиональные</center></strong></td>
+</tr>
+<tr>
+<td>Ответственность</td>
+<td>Обучаемость</td>
+</tr>
+<tr>
+<td>Дисциплинированность</td>
+<td>Ориентированность на положительный результат</td>
+</tr>
+<tr>
+<td>Стрессоустойчивость</td>
+<td>Умение работать в команде</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div>
+<div id="experience"><h2><u>Опыт:</u></h2></div>
+<p>Создание первой (и <strong>пока</strong> единственной) HTML-страницы (интереснейшее занятие)</p>
+</div>
+<div>
+<button><i><b><a href="https://drive.google.com/file/d/17lrDQrEK4lmW3hebs74gFi2xy3I0JP-g/view?usp=sharing">РЕЗЮМЕ</b></i></button></a>
+</div>
+<div>
+<div id="hobby"><h2><u>Хобби:</u></h2></div>
+<ul>
+<li>Военная психология</li>
+<li>Военная социология</li>
+<li>Военная философия</li>
+<li>Квантовая физика</li>
+<li>Аналитическая психология</li>
+<li>Астрофизика</li>
+<li>Логические игры («Судоку» экспертного уровня)</li>
+<li>Компьютерные игры жанров Action, Stealth</li>
+<li>Чтение</li>
+<li>Самообразование</li>
+</ul>
+</div>
+<div>
+<div id="contacts"><h2><u>Контакты:</u></h2></div>
+<a href="mailto:anacher@mail.ru">E-mail</a>
+<br>
+<br>
+<a href="https://vk.com/al_feed.php">ВК</a>
+<br>
+<br>
+<a href="https://www.facebook.com/">Facebook</a>
+<br>
+</div>
+<hr>
+<footer>
+<p>Черданцева Анна</p>
+<p>30.12.2021.</p>
+</footer>
+</body>
+</html>
