@@ -38,7 +38,7 @@
 <div id="aboutme"><h2><u>Аз есмь:</u></h2></div>
 <style>
 h1 {
-ine-height:2px;
+line-height:2px;
 }
 p {
 line-height: 1;
